@@ -1,0 +1,10 @@
+C:\Users\fehuaman\source\repos\SubnetCalculator\SubnetCalculator\bin\Debug\SubnetCalculator.exe.config
+C:\Users\fehuaman\source\repos\SubnetCalculator\SubnetCalculator\bin\Debug\SubnetCalculator.exe
+C:\Users\fehuaman\source\repos\SubnetCalculator\SubnetCalculator\bin\Debug\SubnetCalculator.pdb
+C:\Users\fehuaman\source\repos\SubnetCalculator\SubnetCalculator\obj\Debug\SubnetCalculator.csprojAssemblyReference.cache
+C:\Users\fehuaman\source\repos\SubnetCalculator\SubnetCalculator\obj\Debug\SubnetCalculator.Form1.resources
+C:\Users\fehuaman\source\repos\SubnetCalculator\SubnetCalculator\obj\Debug\SubnetCalculator.Properties.Resources.resources
+C:\Users\fehuaman\source\repos\SubnetCalculator\SubnetCalculator\obj\Debug\SubnetCalculator.csproj.GenerateResource.cache
+C:\Users\fehuaman\source\repos\SubnetCalculator\SubnetCalculator\obj\Debug\SubnetCalculator.csproj.CoreCompileInputs.cache
+C:\Users\fehuaman\source\repos\SubnetCalculator\SubnetCalculator\obj\Debug\SubnetCalculator.exe
+C:\Users\fehuaman\source\repos\SubnetCalculator\SubnetCalculator\obj\Debug\SubnetCalculator.pdb
